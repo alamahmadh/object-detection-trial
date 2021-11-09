@@ -1,2 +1,2 @@
-# object-detection-trail
+# object-detection-trial
 A temporary repository for my OD project
